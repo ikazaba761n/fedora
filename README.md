@@ -8,4 +8,5 @@ update 失敗する
 とりあえず一つのパッケージだけをupdateすると改善
 
 パッケージを指定する。　dnf　update　パッケージ名
+
 その後に　dnf　update　は成功
